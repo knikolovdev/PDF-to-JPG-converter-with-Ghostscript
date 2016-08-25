@@ -1,5 +1,5 @@
 # PDF-to-JPG-converter-with-Ghostscript
-Each page is saved as jpg. Can process many PDFs at in a folder.
+Each page is saved as jpg. Can process many PDFs in a folder.
 ## Installation
 Before using the program Ghotscript must be installed. Ghostscript is popular image processing library. Installation file included in project - gs919w32.exe. Can be downloaded from the official page as well.
 ## Features
